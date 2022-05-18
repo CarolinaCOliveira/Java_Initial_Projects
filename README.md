@@ -1,1 +1,1 @@
-# Java_Initial_Projects
+# Java: Initial Projects
